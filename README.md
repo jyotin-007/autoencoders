@@ -14,4 +14,5 @@
 <br>
 <h2> Colorized Encoder
 <img src = "/img/color.png">
+<img src = "/img/color1.png">
 </h2>
